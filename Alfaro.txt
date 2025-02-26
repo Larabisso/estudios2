@@ -2,3 +2,8 @@ Untracked
 Unmodified
 Modified
 Staged
+
+
+Sistema de control de versiones local.
+Sistema de control de versiones centralizado ( CVCS ).
+Sistema de control de versiones distribuidos ( DVCS ).
