@@ -1,0 +1,4 @@
+Untracked
+Unmodified
+Modified
+Staged
